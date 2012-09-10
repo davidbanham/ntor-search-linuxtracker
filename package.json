@@ -1,0 +1,20 @@
+{
+  "author": "David Banham",
+  "name": "linuxtracker",
+  "description": "Search plugin for linuxtracker",
+  "version": "0.0.0",
+  "repository": {
+    "url": ""
+  },
+  "main": "index.js",
+  "dependencies": {
+		"request": "*"
+		, "jquery": "*"
+		, "jsdom": "*"
+	},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
